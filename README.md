@@ -10,7 +10,7 @@ Testing capabilities of **DeepSeek‑R1‑0528‑Qwen3‑8B (Q6\_K, YaRN 131 k
 
 # DSPyProjectAwareCoder
 
-Local, project‑aware coding assistant built with **DSPy 2.6.25** and **DeepSeek‑R1‑0528‑Qwen3‑8B (Q6\_K, YaRN 131 k)** served by `llama‑server`.  All inference, retrieval, and storage run on‑device—no cloud calls.
+Local, project‑aware coding assistant built with **DSPy** and **DeepSeek‑R1‑0528‑Qwen3‑8B (Q6\_K, YaRN 131 k)** served by `llama‑server`.
 
 ---
 
