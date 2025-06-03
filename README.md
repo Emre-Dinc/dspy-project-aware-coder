@@ -1,3 +1,11 @@
+## Project Aims:
+
+This repository is purely for learning and exploration of: 
+How the **DSPy** programming model. 
+Testing capabilities of **DeepSeek‑R1‑0528‑Qwen3‑8B (Q6\_K, YaRN 131 k)** language model.
+
+### Nothing here should be considered production‑ready.
+
 # DSPyProjectAwareCoder
 
 Local, project‑aware coding assistant built with **DSPy 2.6.25** and **DeepSeek‑R1‑0528‑Qwen3‑8B (Q6\_K, YaRN 131 k)** served by `llama‑server`.  All inference, retrieval, and storage run on‑device—no cloud calls.
@@ -85,8 +93,4 @@ python -m dspy_agent.pipeline "How does foo.bar.validate() work?"
 
 ---
 
-## 5 Why this project exists
 
-This repository is purely for \*\*learning and exploration of how the **DSPy** programming model.What the **DeepSeek‑R1‑0528‑Qwen3‑8B (Q6\_K, YaRN 131 k)** model can achieve.
-
-All findings will be documented in future commits; nothing here should be considered production‑ready.
