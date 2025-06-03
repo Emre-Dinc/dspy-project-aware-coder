@@ -14,10 +14,6 @@
 .vscode/
 .env
 
-# Llama‑cpp / model caches
-
-\~/.cache/llama.cpp/
-\*.gguf
 
 # Vector store (Chroma persistence)
 
