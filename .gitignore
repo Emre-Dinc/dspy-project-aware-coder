@@ -1,0 +1,34 @@
+# Python artifacts
+
+**pycache**/
+\*.py\[cod]
+\*.pyo
+
+# Virtual environments
+
+.venv/
+
+# Editor configs / local settings
+
+.idea/
+.vscode/
+.env
+
+# Llama‑cpp / model caches
+
+\~/.cache/llama.cpp/
+\*.gguf
+
+# Vector store (Chroma persistence)
+
+vector\_store/
+
+# Logs & reports
+
+\*.log
+\*.csv
+
+# OS
+
+.DS\_Store
+Thumbs.db
