@@ -49,7 +49,7 @@ $ python -m dspy_agent.pipeline "Explain indexer.upsert()"
 | **1**    | **Persistent chat sessions** backed by MongoDB.                                                                                                                                                                                                   | Maintain dialogue context without rerunning full pipeline every turn. |
 | **2**    | **Self‑refreshing index**: assistant triggers incremental upserts when files change during a session.                                                                                                                                             | Keeps retrieval in sync live.                                         |
 | **3**    | **MongoDB memory store** for summaries, tool outputs, and long‑term notes.                                                                                                                                                                        | Enables iterative design loops.                                       |
-| **4**    | **Tool‑calling (********`apply_patch`****\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*, ********************************************`run_tests`********************************************)** via DSPy tools. | Move from Q\&A to active pair‑programming.                            |
+| **4**    | **Tool‑calling (`apply_patch`, ********************************************`run_tests`********************************************)** via DSPy tools. | Move from Q\&A to active pair‑programming.                            |
 
 ---
 
