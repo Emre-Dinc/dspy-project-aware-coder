@@ -1,7 +1,9 @@
 ## Project Aims:
 
 This repository is purely for learning and exploration of: 
+
 How the **DSPy** programming model. 
+
 Testing capabilities of **DeepSeek‑R1‑0528‑Qwen3‑8B (Q6\_K, YaRN 131 k)** language model.
 
 ### Nothing here should be considered production‑ready.
